@@ -22,12 +22,14 @@ SYMBOLS = {
     "Ethereum": "ETHUSDT",
     "TON": "TONUSDT",
     "SOL": "SOLUSDT"
+    "XRP": "XRPUSDT"	
   
 }
 INTERVALS = {
     "15 минут": "15",
     "30 минут": "30",
     "1 час": "60",
+    "4 часа": "240"	
     
 }
 LIMIT = 500
