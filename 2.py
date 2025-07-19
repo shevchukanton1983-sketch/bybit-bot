@@ -22,7 +22,7 @@ SYMBOLS = {
     "Ethereum": "ETHUSDT",
     "TON": "TONUSDT",
     "SOL": "SOLUSDT"
-    "XRP": "XRPUSDT"	
+    	
   
 }
 INTERVALS = {
