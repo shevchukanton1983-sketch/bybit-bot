@@ -1,1 +1,1 @@
-python 2.py
+worker: python 2.py
